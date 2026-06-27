@@ -460,4 +460,3 @@ After completing this project, I learned:
 
 ---
 
-ofessional, and well-suited for internship submissions, college projects, or uploading to GitHub.
