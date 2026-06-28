@@ -4,9 +4,9 @@
 
 1. Project Title
 
-``text
+
 Student Record Management System
-`
+
 
 ---
 
@@ -25,17 +25,12 @@ Student Record Management System
 
 3. Project Description
 
-Write 4–5 lines explaining the project.
-
-Example:
-
-> The Student Record Management System is a menu-driven application developed using the C programming language. It manages student information efficiently using binary file handling. The application supports adding, viewing, searching, updating, and deleting student records. It provides a simple console-based interface and demonstrates the use of structures, functions, loops, and file operations.
+The Student Record Management System is a menu-driven application developed using the C programming language. It manages student information efficiently using binary file handling. The application supports adding, viewing, searching, updating, and deleting student records. It provides a simple console-based interface and demonstrates the use of structures, functions, loops, and file operations.
 
 ---
 
  4. Project Scope
 
-Mention what the project can do.
 
 * Store student records permanently
 * Search students using Roll Number
@@ -88,7 +83,7 @@ Mention what the project can do.
 
  8. Project Folder Structure
 
-`text
+
 Student_Record_Management/
 │
 ├── student_record.c
@@ -108,7 +103,7 @@ Student_Record_Management/
 
  9. Code Structure
 
-Explain each function.
+
 
 | Function          | Description                        |
 | ----------------- | ---------------------------------- |
@@ -135,7 +130,6 @@ struct Student
 };
 `
 
-Explain each member.
 
 ---
 
@@ -155,7 +149,7 @@ Explain each member.
 
  12. Program Workflow
 
-``text
+
 Start
    │
 Display Menu
